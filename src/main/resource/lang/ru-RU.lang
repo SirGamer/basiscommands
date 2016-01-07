@@ -1,0 +1,36 @@
+lang.loaded_msg=Загружен русский файл перевода
+
+command.invalid_arguments_msg=Неверные параметры
+command.not_allowed_to_use_msg=Вам запрещено использовать эту команду
+
+command.addnotice.added_msg=Объявление добавлено
+command.delnotice.deleted_msg=Объявление удалено
+command.noticelist.notices=Список объявлений:
+command.noticelist.notices_header=ID  Текст
+
+command.home.teleport_msg=Телепортация к дому '%s'
+command.home.home_not_exists_msg=Этот дом не существует
+command.sethome.set_msg=Создана точка телепортации домой '%s'
+command.sethome.too_many_homes_error=Вы можете создавать только %s домов
+command.delhome.deleted_msg=Дом удален
+command.homelist.homes=Ваши дома:
+
+command.tp.teleported_msg=Телепортирован к игроку '%s'
+command.tp.target_teleported_msg=Игрок '%s' телепортирован к Вам
+
+command.tpa.player_not_online_msg=Этот игрок не находится на сервере
+command.tpa.request_sent_msg=Отправлен запрос на телепортацию игроку '%s'
+command.tpa.tpa_request_received_msg=Игрок '%s' хочет телепортироваться к Вам, наберите '/tpaccept' если согласны
+command.tpa.tpahere_request_received_msg=Игрок '%s' хочет телепортроивать Вас к себе, наберите '/tpaccept' если согласны
+
+command.tpaccept.accepted_msg=Получено согласие игрока '%s' на телепортацию к Вам
+command.tpaccept.target_accepted_msg=Игрок '%s' согласовал Ваш запрос
+command.tpaccept.tpahere_target_accepted_msg=Телепортация к игроку '%s'
+
+command.setwarp.set_msg=Создана точка телепортации (warp)
+command.warplist.warp_points=Список точек телепортации (warp):
+command.warplist.warp_points_header=ID  Название
+command.delwarp.warp_deleted=Точка телепортации удалена
+command.warp.warp_point_not_exists_msg=Данной точки телепортации не существует
+
+command.setspawn.spawn_set_msg=Определена точка возрождения
