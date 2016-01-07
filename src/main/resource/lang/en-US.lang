@@ -1,21 +1,21 @@
 lang.loaded_msg=American English I18N file loaded
 
 command.invalid_arguments_msg=Invalid argument(s)
-command.not_allowed_to_use_msg=You are not allowed to use this command
+command.not_allowed_to_use_msg=You are not allowed to use this command.
 
-command.addnotice.added_msg=Notice added
-command.delnotice.deleted_msg=Notice deleted
+command.addnotice.added_msg=Notice added.
+command.delnotice.deleted_msg=Notice removed.
 command.noticelist.notices=Notice List:
 command.noticelist.notices_header=ID  TEXT
 
-command.home.teleport_msg=Teleporting to home '%s'
-command.home.home_not_exists_msg=This home does not exists
-command.sethome.set_msg=Set home '%s' here
-command.sethome.too_many_homes_error=You can only set %s home(s)
-command.delhome.deleted_msg=Home deleted
+command.home.teleport_msg=Teleporting to home '%s'.
+command.home.home_not_exists_msg=This home does not exist.
+command.sethome.set_msg=You've set or have created the home '%s' here.
+command.sethome.too_many_homes_error=You can only set %s home(s).
+command.delhome.deleted_msg=Home deleted.
 command.homelist.homes=Your home(s):
 
-command.tp.teleported_msg=Teleported to player '%s'
+command.tp.teleported_msg=Teleported to player '%s'.
 command.tp.target_teleported_msg=Player '%s' teleported to you
 
 command.tpa.player_not_online_msg=This player is not online
